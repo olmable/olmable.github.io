@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olmable.github.io/sitemap.html.gz
+Sitemap: https://olmable.github.io/app/sitemap.html.gz
+Sitemap: https://olmable.github.io/assets/sitemap.html.gz
+Sitemap: https://olmable.github.io/css/sitemap.html.gz
+Sitemap: https://olmable.github.io/includes/sitemap.html.gz
+Sitemap: https://olmable.github.io/item/sitemap.html.gz
+Sitemap: https://olmable.github.io/src/sitemap.html.gz
